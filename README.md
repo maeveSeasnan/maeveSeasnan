@@ -1,6 +1,6 @@
 # About Me
 
-My name is Maeve and I'm a software development student with a growing interest in UX/UI design and development, leadership, and marketing!
+My name is Maeve and I'm a software development student with a growing interest in UX/UI design, leadership, and marketing!
 
 - 🔭 I’m currently working toward an Associate of Applied Science in Software Development, along with certificates in Marketing Specialist and Leadership.
 - 🌱 I’m currently learning C++ programming, GitHub, microeconomics, and strategies for leading social change.
