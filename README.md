@@ -1,6 +1,6 @@
 # About Me
 
-My name is Maeve, and I'm a software development student with a growing interest in digital communications and leadership.
+My name is Maeve, and I'm an entry-level professional in software development with a growing interest in psychology and social work.
 
 - 🔭 I’ve recently completed my Associate of Applied Science in Software Development.
 - 🌱 I’m working toward my Bachelor of Arts in Psychology.
